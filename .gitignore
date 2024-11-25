@@ -1,0 +1,22 @@
+# Ignore build outputs
+/target/
+/out/
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+
+# Ignore environment files
+*.env
